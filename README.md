@@ -6,6 +6,7 @@ The initial goal was to experiment with variable fonts and typographic animation
 What began as an academic exercise later evolved into a website for my father’s printing business.
 Although the live website has since been redesigned, I decided to preserve the original design and source code in this repository as a reference and showcase of the concept.
 
+👉 **View the deployed project**: https://jimdup.github.io/var-fonts/
 👉 **View the deployed project**: https://jdupre81.github.io/var-fonts/
 
 ✨ **Features**
